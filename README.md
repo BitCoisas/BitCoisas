@@ -24,8 +24,7 @@
 </p>
 
 <p align='center'>
-  🦆 Nostr: <a href='https://njump.me/npub1mx3sgxc250xl8d6tkwksg0dg5sx2zjwgjxeqfxef7drt0y39yxxqe2raya'>npub1mx3sgxc250xl8d6tkwksg0dg
-5sx2zjwgjxeqfxef7drt0y39yxxqe2raya</a>
+  🦆 Nostr: <a href='https://njump.me/npub1mx3sgxc250xl8d6tkwksg0dg5sx2zjwgjxeqfxef7drt0y39yxxqe2raya'>npub1mx3sgxc250xl8d6tkwksg0dg5sx2zjwgjxeqfxef7drt0y39yxxqe2raya</a>
 </p>
 
 <p align='center'>
